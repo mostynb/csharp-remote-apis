@@ -1,6 +1,6 @@
 To generate C# remote-apis bindings (on amd64 linux):
 ```
-git clone --recursive git@github.com:mostynb/csharp-remote-apis.git
+git clone --recursive https://github.com/mostynb/csharp-remote-apis.git
 cd csharp-remote-apis
 ./generate_csharp_bindings.sh
 ```
